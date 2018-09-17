@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeGuzmanJoshuaLab3</string>
+    <string name="title">Fisher Mall Cinema</string>
+    <string name="location">Location: 35 Quezon Ave, Quezon City, Luzon Philippines</string>
+    <string name="dist">Distance from UST: 1.1 km</string>
+    <string name="b">Back</string>
+    <string name="n">Next</string>
+</resources>
